@@ -1,0 +1,31 @@
+.auth{
+  height: 100vh;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+  // background: #f8f8f8 !important;
+  background-image: url("../../assets/images/bg-login-page.png");
+  background-size: 100% 100%;    
+  background-attachment: fixed;
+  background-size: contain;
+  .header-authen {
+    background: #fff;
+    padding: 11px 16px;
+    text-align: center;
+    box-shadow: 0 4px 24px rgba(7, 7, 7, 0.08);
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+    &-box{
+      width: 500px !important;
+      border-radius: 0.475rem!important;
+      background-color: #fff!important;
+      box-shadow: 0 .1rem 1rem .25rem rgba(0,0,0,.05)!important;
+    }
+    .form-login{
+      input{
+        
+      }
+    }
+  }
+}

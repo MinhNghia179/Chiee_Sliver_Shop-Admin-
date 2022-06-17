@@ -1,0 +1,18 @@
+export const DATA_PRODUCT_DEFAULT = {
+  id: null,
+  category_id: "",
+  name: "",
+  price: 1,
+  promotion_price: null,
+  promotion_time_start: null,
+  promotion_time_end: null,
+  list_image: [],
+  short_description: "",
+  description: "",
+  created_at: "",
+  created_by: "",
+  modified_at: "",
+  modified_by: "",
+  properties: [],
+  status: true,
+};

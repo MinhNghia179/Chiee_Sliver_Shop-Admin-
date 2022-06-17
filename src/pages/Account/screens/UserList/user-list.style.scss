@@ -1,0 +1,22 @@
+.account-detail{
+  &-left{
+    display: flex;
+    align-items: center;
+    .avatar{
+      position: relative;
+      .update-avatar{
+        position: absolute;
+        z-index: 100;
+        bottom: 0;
+        right: 0;
+      }
+    }
+
+    &-info{
+      margin-left: 10px;
+    }
+  }
+  &-right{
+
+  }
+}

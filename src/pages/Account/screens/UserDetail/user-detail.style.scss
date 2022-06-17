@@ -1,0 +1,14 @@
+.user_detail{
+  .upload_image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    label{
+      border:1px solid gray;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  }
+}

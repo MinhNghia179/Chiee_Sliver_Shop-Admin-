@@ -1,0 +1,12 @@
+.edit-blog-form{
+  .label-input-image{
+    border: 1px dotted #000;
+    padding: 25px;
+    cursor: pointer;
+  }
+  .image-preview{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+}

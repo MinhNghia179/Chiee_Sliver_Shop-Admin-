@@ -1,0 +1,67 @@
+# 🔥 Admin site MT-Shop
+
+## Description
+> Author: Lưu Bá Minh - K13 - Hanoi University of Industry
+
+> This project is a graduate project majoring in information technology, Faculty of Information Technology, Hanoi University of Industry.
+
+> Demo project
+
+> Website user
+
+
+## Popular libraries in the project
+
+## `1. Ant Design`
+
+<p align="center">
+  <img src="https://img.js.design/assets/Resources/cover/%E9%A6%96%E5%9B%BE1.1.png">
+</p>
+
+## `2. Formik`
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*opBgWH5AfF8dn_QzUGY5oA.png">
+</p>
+
+## Features of the site 
+  - Log in
+  - Log out
+  -	Forgot password
+  - Dashboard
+  - Manage product catalog
+    - Show list
+    - Add category
+    - Update catalog
+    - Delete category
+  -	Product Management
+    - Display product list
+    - Show product details
+    - Filter products
+    - More products
+    - Product updates
+    - Product cloning
+    - Delete product
+    - Manage product reviews
+  - Order management
+    - Display order list
+    - View order details
+    - Update order status
+  - Manage articles
+    - Show list of articles
+    - Show article details
+    - Add new articles
+    - Duplicate articles
+    - Update articles
+    - Delete posts
+    - Manage comments
+  - Feedback management
+    - Show response list
+    - View feedback details
+    - Delete feedback
+  -	Manage member
+    - Display the list of member accounts
+    - Add new members (add employee accounts, user accounts)
+    - Update personal information for members
+    - Update passwords for employees
+    - Lock member account
